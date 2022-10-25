@@ -1,7 +1,6 @@
-# python-api-challenge
 
-# python-api-challenge
-## Submittal for the Homework 6 challenge for the U of M Data Analytics BootCamp.
+This repo contains an analysis of weather data obtained by retrieving data from an API. The analysis of the data is also used to help find potential optimal vacation locations.
+
 1. The `WeatherPy` file has the analysis of over 500 cities looking at observable trends related to temperature, humidity, cloudiness, and wind speed in relation to the city's latitude.
 
     + Note that there is an `output_images` folder that contains all of the image outputs for this exercise. The images are titled based on the matplotlib plot they are displaying.
